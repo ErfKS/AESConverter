@@ -1,0 +1,15 @@
+C:\Users\Amir\source\repos\AESConverter\AESConverter\bin\Release\AESConverter.exe.config
+C:\Users\Amir\source\repos\AESConverter\AESConverter\bin\Release\AESConverter.exe
+C:\Users\Amir\source\repos\AESConverter\AESConverter\bin\Release\AESConverter.pdb
+C:\Users\Amir\source\repos\AESConverter\AESConverter\obj\Release\AESConverter.csprojResolveAssemblyReference.cache
+C:\Users\Amir\source\repos\AESConverter\AESConverter\obj\Release\AESConverter.Form1.resources
+C:\Users\Amir\source\repos\AESConverter\AESConverter\obj\Release\AESConverter.Properties.Resources.resources
+C:\Users\Amir\source\repos\AESConverter\AESConverter\obj\Release\AESConverter.csproj.GenerateResource.cache
+C:\Users\Amir\source\repos\AESConverter\AESConverter\obj\Release\AESConverter.csproj.CoreCompileInputs.cache
+C:\Users\Amir\source\repos\AESConverter\AESConverter\obj\Release\AESConverter.exe
+C:\Users\Amir\source\repos\AESConverter\AESConverter\obj\Release\AESConverter.pdb
+C:\Users\Amir\source\repos\AESConverter\AESConverter\bin\Release\Newtonsoft.Json.dll
+C:\Users\Amir\source\repos\AESConverter\AESConverter\bin\Release\Newtonsoft.Json.pdb
+C:\Users\Amir\source\repos\AESConverter\AESConverter\bin\Release\Newtonsoft.Json.xml
+C:\Users\Amir\source\repos\AESConverter\AESConverter\obj\Release\AESConverter.csproj.CopyComplete
+C:\Users\Amir\source\repos\AESConverter\AESConverter\obj\Release\AESConverter.Form2.resources
